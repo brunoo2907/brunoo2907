@@ -26,8 +26,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=brunoo2907&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pacman Game" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunoo2907/brunoo2907/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman Game" src="https://raw.githubusercontent.com/brunoo2907/brunoo2907/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
