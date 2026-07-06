@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=brunoo2907&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <picture>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/nome-do-arquivo-gerado-no-output.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/brunoo2907/brunoo2907/output/nome-do-arquivo-gerado-no-output.svg">
 </picture>
 
 ---
