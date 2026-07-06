@@ -25,9 +25,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=brunoo2907&theme=dark&hide_border=false&include_all_commits=true&count_private=false)</br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=brunoo2907&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<picture>
-  <img alt="Pacman Game" src="https://raw.githubusercontent.com/brunoo2907/brunoo2907/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
